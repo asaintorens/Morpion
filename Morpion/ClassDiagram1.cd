@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Morpion.Morpion">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAACAA=</HashCode>
+      <FileName>Morpion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Plateau" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Morpion.Plateau">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plateau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Morpion.Joueur">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAEAAiAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Joueur.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Pion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Morpion.Case">
+    <Position X="1.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Case.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Morpion.Pion">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

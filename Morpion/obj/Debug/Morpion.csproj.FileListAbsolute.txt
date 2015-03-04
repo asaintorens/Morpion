@@ -1,0 +1,6 @@
+c:\users\alexa_000\documents\visual studio 2013\Projects\Morpion\Morpion\bin\Debug\Morpion.exe.config
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\Morpion\Morpion\bin\Debug\Morpion.exe
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\Morpion\Morpion\bin\Debug\Morpion.pdb
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\Morpion\Morpion\obj\Debug\Morpion.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\Morpion\Morpion\obj\Debug\Morpion.exe
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\Morpion\Morpion\obj\Debug\Morpion.pdb
